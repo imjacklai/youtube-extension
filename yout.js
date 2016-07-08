@@ -1,0 +1,1 @@
+document.getElementsByClassName("ladda-label")[0].click();
